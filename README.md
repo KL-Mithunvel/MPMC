@@ -3,3 +3,9 @@ MPMC BMHA204P
  - EX 1 TO 3 IS ON 8086 HARDWARE..
  - EX 8 AND 12 IS 8051 HARDWARE..
  - REST IS ON KEIL 
+
+
+![image](https://github.com/user-attachments/assets/3ea4e857-7ba6-4908-823c-0c5f49314210)
+FOR LCD AND I/P O/P ALONE U TAKE THE SECONE ONE 
+IE FOR 8 AND 12
+
